@@ -199,7 +199,7 @@ img {
   background-image: linear-gradient(to bottom, var(--grey), var(--grey)),
     url(../images/hero.jpg);
   background-repeat: no-repeat;
-  background-size: fit;
+  background-size: cover;
   background-position: 50% 50%;
   max-width: 1440px;
   margin: 0 auto;
