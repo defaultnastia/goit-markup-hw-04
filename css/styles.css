@@ -407,7 +407,7 @@ li {
 
 .portfolio-img-wrapper:hover .portfolio-overlay,
 .portfolio-img-wrapper:focus .portfolio-overlay {
-  transform: translateY(0);
+  transform: translateY(0%);
 }
 
 .portfolio-section .card-text-wrap {
